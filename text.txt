@@ -1,0 +1,1092 @@
+
+                                    <li class="li-top-item left ">
+                                        <a class="a-top-link a-item"
+                                            href="index.php?route=product/category&amp;path=56">
+                                            <span>Camera, Photo &amp; Video</span>
+                                            <i class="ion-ios-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                        <!-- Mega Menu -->
+                                        <div class="mega-menu-container sub-menu-container ">
+                                            <div class="row">
+
+                                                <div class="col-md-5 sub-item2-content" data-cols="5">
+                                                    <h4><a class="a-mega-second-link"
+                                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=306">Security
+                                                            Cameras</a></h4>
+                                                    <div class="sub_item3-content">
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=306_325">DSLR
+                                                                Cameras</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=306_327">Lenses</a>
+                                                        </h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=306_326">Mirrorless
+                                                                Cameras</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=306_323">Point</a>
+                                                        </h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=306_324">Shoot
+                                                                Digital Cameras</a></h5>
+                                                    </div>
+                                                </div>
+
+
+
+                                                <div class="col-md-5 sub-item2-content" data-cols="5">
+                                                    <h4><a class="a-mega-second-link"
+                                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=84">Mirrorless
+                                                            Cameras</a></h4>
+                                                    <div class="sub_item3-content">
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=84_328">Accessories</a>
+                                                        </h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=84_329">Bags
+                                                                &amp; Cases</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=84_330">Binoculars
+                                                                &amp; Scopes</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=84_331">Digital
+                                                                Cameras</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=84_332">Film
+                                                                Photography</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=84_333">Flashes</a>
+                                                        </h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=84_334">Lighting
+                                                                &amp; Studio</a></h5>
+                                                    </div>
+                                                </div>
+
+
+
+
+
+                                                <div class="col-md-2 sub-item2-content" data-cols="2">
+                                                    <div class="static-menu-right">
+                                                        <div class="image">
+                                                            <a href="#"><img
+                                                                    src="image/catalog/cmsblock/img-right-menu.jpg"
+                                                                    alt="img-right-menu"></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                        <!-- Flyout Menu -->
+                                    </li>
+                                    <li class="li-top-item left ">
+                                        <a class="a-top-link a-item"
+                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20">
+                                            <span>Laptop &amp; computer</span>
+                                            <i class="ion-ios-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                        <!-- Mega Menu -->
+                                        <div class="mega-menu-container sub-menu-container ">
+                                            <div class="row">
+                                                <div class="col-md-4 sub-item2-content" data-cols="4">
+                                                    <h4><a class="a-mega-second-link"
+                                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_51">Laptops</a>
+                                                    </h4>
+                                                    <div class="sub_item3-content">
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_51_353">2-in-1s</a>
+                                                        </h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_51_357">Business
+                                                                Laptops</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_51_352">Chromebooks</a>
+                                                        </h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_51_354">Gaming
+                                                                Laptops</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_51_356">Laptop
+                                                                Packages</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_51_351">MacBooks</a>
+                                                        </h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_51_350">PC
+                                                                Laptops</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_51_355">Refurbished
+                                                                Laptops</a></h5>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 sub-item2-content" data-cols="4">
+                                                    <h4><a class="a-mega-second-link"
+                                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_48">Tablets</a>
+                                                    </h4>
+                                                    <div class="sub_item3-content">
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_48_361">4G
+                                                                LTE Tablets</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_48_358">Apple
+                                                                iPad</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_48_365">E-Readers
+                                                                &amp; Accessories</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_48_364">iPad
+                                                                &amp; Tablet Accessories</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_48_362">Kids'
+                                                                Tablets</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_48_360">Microsoft
+                                                                Surface Go</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_48_359">Microsoft
+                                                                Surface Pro</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_48_363">Refurbished
+                                                                Tablets</a></h5>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 sub-item2-content" data-cols="4">
+                                                    <h4><a class="a-mega-second-link"
+                                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49">Desktops</a>
+                                                    </h4>
+                                                    <div class="sub_item3-content">
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_366">All-in-One
+                                                                Computers</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_370">Apple
+                                                                iMac, Mini &amp; Mac Pro</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_369">Desktop
+                                                                Packages</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_371">Gaming
+                                                                Desktops</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_368">Refurbished
+                                                                Desktops</a></h5>
+                                                        <h5><a class="a-mega-third-link"
+                                                                href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_367">Towers
+                                                                Only</a></h5>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                        <!-- Flyout Menu -->
+                                    </li>
+                                    <li class="li-top-item left ">
+                                        <a class="a-top-link a-item"
+                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=72">
+                                            <span>Cellphones &amp; Accessories</span>
+                                            <i class="ion-ios-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                        <!-- Mega Menu -->
+
+                                        <!-- Flyout Menu -->
+
+                                        <div class="flyout-menu-container sub-menu-container left">
+                                            <ul class="ul-second-items">
+                                                <li class="li-second-items">
+                                                    <a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=72_78"
+                                                        class="a-second-link a-item">
+                                                        <span class="a-second-title">Cell Phones with Service</span>
+                                                    </a>
+                                                </li>
+                                                <li class="li-second-items">
+                                                    <a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=72_82"
+                                                        class="a-second-link a-item">
+                                                        <span class="a-second-title">Accessories</span>
+                                                    </a>
+                                                </li>
+                                                <li class="li-second-items">
+                                                    <a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=72_121"
+                                                        class="a-second-link a-item">
+                                                        <span class="a-second-title">No-Contract</span>
+                                                    </a>
+                                                </li>
+                                                <li class="li-second-items">
+                                                    <a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=72_79"
+                                                        class="a-second-link a-item">
+                                                        <span class="a-second-title">Prepaid Cell Phones</span>
+                                                    </a>
+                                                </li>
+                                                <li class="li-second-items">
+                                                    <a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=72_80"
+                                                        class="a-second-link a-item">
+                                                        <span class="a-second-title">Unlocked Cell Phones</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="li-top-item left ">
+                                        <a class="a-top-link a-item"
+                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=308">
+                                            <span>Video Games Consoles</span>
+                                        </a>
+                                    </li>
+                                    <li class="li-top-item left ">
+                                        <a class="a-top-link a-item"
+                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=309">
+                                            <span>Business &amp; Office</span>
+                                        </a>
+                                    </li>
+                                    <li class="li-top-item left ">
+                                        <a class="a-top-link a-item"
+                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=310">
+                                            <span>Headphones &amp; Accessories</span>
+                                        </a>
+                                    </li>
+                                    <li class="li-top-item left ">
+                                        <a class="a-top-link a-item"
+                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=311">
+                                            <span>Quadcopters &amp; Accessories</span>
+                                        </a>
+                                    </li>
+                                    <li class="li-top-item left ">
+                                        <a class="a-top-link a-item"
+                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=312">
+                                            <span>Network Devices</span>
+                                        </a>
+                                    </li>
+                                    <li class="li-top-item left over">
+                                        <a class="a-top-link a-item"
+                                            href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=313">
+                                            <span>Smart Watches &amp; Accessories</span>
+                                        </a>
+                                    </li>
+                                    <li class="li-top-item li-over li-plus">
+                                        <a href="javascript:void(0);" class="a-top-link a-plus a-over"><span>More
+                                                Categories</span></a>
+                                    </li>
+                                    <li class="li-top-item li-over li-minus over">
+                                        <a href="javascript:void(0);" class="a-top-link a-minus a-over"><span>Hide
+                                                Categories</span></a>
+                                    </li>
+
+
+                                                        <h1>Muhammad</h1>
+                                                        @forelse($tavarlar as $tavar)
+                                                            <div class="row_items ">
+
+                                                                <div class="product-layout grid-style ">
+                                                                    <div class="product-thumb transition">
+                                                                        <div class="item">
+                                                                            <div class="item-inner">
+
+                                                                                <div class="image images-container">
+                                                                                    <a href=""
+                                                                                        class="product-image">
+                                                                                        <img class="img-r"
+                                                                                            src="{{ $tavar->image }}"
+                                                                                            alt="{{$tavar->name }}" />
+                                                                                        <img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/16-600x600.jpg"
+                                                                                            alt="Sony XB10 Portable  Wireless Speaker"
+                                                                                            title="Sony XB10 Portable  Wireless Speaker"
+                                                                                            class="img-responsive has-rotator" />
+                                                                                    </a>
+                                                                                    <div class="box-label">
+                                                                                        <div
+                                                                                            class="label-product label_new">
+                                                                                            <span>
+                                                                                                @if($now === $tavar->chegirma_date)
+                                                                                                    {{ $tavar->chegirma }}%
+                                                                                                @endif
+                                                                                            </span></div>
+
+                                                                                    </div>
+
+                                                                                    <div class="action-links">
+
+                                                                                        <button
+                                                                                            class="button btn-wishlist"
+                                                                                            type="button"
+                                                                                            title="Add to Wish List"
+                                                                                            ><span>Add
+                                                                                                to Wish
+                                                                                                List</span></button>
+                                                                                        <button
+                                                                                            class="button btn-compare"
+                                                                                            type="button"
+                                                                                            title="Compare this Product"
+                                                                                            ><span>Compare
+                                                                                                this
+                                                                                                Product</span></button>
+                                                                                    </div>
+                                                                                    <div class="quickview"><button
+                                                                                            class="button btn-quickview"
+                                                                                            type="button"
+                                                                                            title="Quick View"
+                                                                                            ><span>Quick
+                                                                                                View</span></button>
+                                                                                    </div>
+                                                                                </div><!-- image -->
+                                                                                <div class="caption">
+
+                                                                                    <p class="manufacture-product">
+                                                                                        <a
+                                                                                            href="">Apple</a>
+                                                                                    </p>
+                                                                                    <h4 class="product-name"><a
+                                                                                            href="#">
+                                                                                            {{ $tavar->name }}</a></h4>
+
+                                                                                    <div class="ratings">
+                                                                                        <div class="rating-box">
+                                                                                            <div class="rating0">
+                                                                                                rating</div>
+                                                                                        </div>
+                                                                                    </div>
+
+                                                                                    <div class="price-box">
+                                                                                        <label>Price:</label>
+                                                                                        <p class="regular-price"><span
+                                                                                                class="price">{{ $tavar->shop_price }} so'm</span>
+                                                                                        </p>
+                                                                                    </div>
+
+                                                                                    <button class="button btn-cart"
+                                                                                        type="button"
+                                                                                        title="Add to Cart"
+                                                                                        ><span>Add
+                                                                                            to Cart</span></button>
+                                                                                </div><!-- caption -->
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- product-thumb -->
+                                                                </div><!-- product-layout -->
+                                                            </div>
+                                                        @empty
+
+                                                        @endforelse
+
+
+<div id="product-category" class="container layer-category">
+    <div class="layered-navigation-block"></div>
+    <div class="ajax-loader">
+        <img src="http://demo.towerthemes.com/tt_sinrato/image/catalog/AjaxLoader.gif" alt="">
+    </div>
+
+    <div class="row"><div class="col-order"><aside id="column-left" class="col-md-3 col-sm-12">
+      <div class="layernavigation-module">
+	<div class="panel panel-default">
+		<div class="panel-heading layered-heading">Layered Navigation</div>
+		<div class="layered">
+			<div class="list-group">
+				<div class="filter-attribute-container filter-attribute-remove-container">
+																																																																																																																									</div>
+				<div class="filter-attribute-container filter-price">
+					<label><span>Fillter By Price</span></label>
+					<div class="list-group-item">
+						<div class="filter-price">
+							<div id="slider-price" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content"><div class="ui-slider-range ui-corner-all ui-widget-header" style="width: 100%; left: 0%;"></div><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style="left: 0%;"></span><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style="left: 100%;"></span></div>
+							<div class="slider-values">
+								<span>$</span>
+								<input id="price-from" disabled="disabled" class="input-price" type="text" value="80" placeholder="Min" name="price-from">
+								<span></span><em>-</em>
+								<span>$</span>
+								<input id="price-to" disabled="disabled" class="input-price" type="text" value="1000" placeholder="Max" name="price-to">
+								<span></span>
+							</div>
+						</div>
+					</div>
+				</div>
+									<div class="filter-attribute-container filter-manufacturer">
+						<label><span>Manufacturer</span></label>
+						<div class="list-group-item">
+							<div id="filter-group2">
+																																				<a class="a-filter add-filter" href="javascript:void(0);" name="14">Christian Dior (3)</a>
+																																													<a class="a-filter add-filter" href="javascript:void(0);" name="15">ferragamo (6)</a>
+																								</div>
+						</div>
+					</div>
+									<div class="filter-attribute-container filter-select by color">
+						<label><span>Select By Color</span></label>
+						<div class="list-group-item">
+							<div id="filter-group1">
+																																				<a class="a-filter add-filter" href="javascript:void(0);" name="8">Brown (3)</a>
+																																													<a class="a-filter add-filter" href="javascript:void(0);" name="1">White (6)</a>
+																								</div>
+						</div>
+					</div>
+							</div>
+		</div>
+		<input type="hidden" class="filter-url" value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49">
+		<input type="hidden" class="price-url" value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49">
+	</div>
+</div>
+<script type="text/javascript">
+    var filter_url = '';
+    var ids = [];
+    var min_price = parseFloat('80');
+    var max_price = parseFloat('1000');
+    var current_min_price = parseFloat($('#price-from').val());
+    var current_max_price = parseFloat($('#price-to').val());
+
+    $('#slider-price').slider({
+        range   : true,
+        min     : min_price,
+        max     : max_price,
+        values  : [ current_min_price, current_max_price ],
+        slide   : function (event, ui) {
+            $('#price-from').val(ui.values[0]);
+            $('#price-to').val(ui.values[1]);
+            current_min_price = ui.values[0];
+            current_max_price = ui.values[1];
+        },
+        stop    : function (event, ui) {
+            filter_url = $('.price-url').val();
+            filter_url += '&price=' + current_min_price + ',' + current_max_price;
+            ocfilter.filter(filter_url);
+        }
+    });
+
+    $('.a-filter').click(function () {
+        var id = $(this).attr('name');
+        var filter_ids;
+        filter_url = $('.filter-url').val();
+        if($(this).hasClass('add-filter') == true) {
+            ids.push(id);
+        } else if($(this).hasClass('remove-filter') == true) {
+            ids = $.grep(ids, function (value) {
+                return value != id;
+            });
+        }
+        filter_ids = ids.join(',');
+        filter_url += '&filter=' + filter_ids;
+        ocfilter.filter(filter_url);
+    });
+
+    $('.clear-filter').click(function () {
+        ids = [];
+    });
+
+    $(document).ajaxComplete(function () {
+        var current_min_price = parseFloat($('#price-from').val());
+        var current_max_price = parseFloat($('#price-to').val());
+
+        $('#slider-price').slider({
+            range   : true,
+            min     : min_price,
+            max     : max_price,
+            values  : [ current_min_price, current_max_price ],
+            slide   : function (event, ui) {
+                $('#price-from').val(ui.values[0]);
+                $('#price-to').val(ui.values[1]);
+                current_min_price = ui.values[0];
+                current_max_price = ui.values[1];
+            },
+            stop    : function (event, ui) {
+                filter_url = $('.price-url').val();
+                filter_url += '&price=' + current_min_price + ',' + current_max_price;
+                ocfilter.filter(filter_url);
+            }
+        });
+
+        $('.a-filter').click(function () {
+            var id = $(this).attr('name');
+            var filter_ids = '';
+            filter_url = $('.filter-url').val();
+
+            if($(this).hasClass('add-filter') == true) {
+                ids.push(id);
+            } else if($(this).hasClass('remove-filter') == true) {
+                ids = $.grep(ids, function (value) {
+                    return value != id;
+                });
+            }
+            filter_ids = ids.join(',');
+            filter_url += '&filter=' + filter_ids;
+            ocfilter.filter(filter_url);
+        });
+
+        $('.clear-filter').click(function () {
+            ids = [];
+        });
+    });
+</script>
+
+
+<div class="banner-static static-sidebar">
+<div class="image">
+<a href="#"><img src="image/catalog/cmsblock/img-static-sidebar.jpg" alt="static-sidebar"></a>
+</div>
+</div>
+  </aside>
+
+                                    <div id="content" class="col-md-9 col-sm-12">
+
+
+							<h1 class="category-name">Desktops</h1>
+
+                            <h3 class="text-refine">Refine Search</h3>
+                                    <div class="row">
+                                                    <div class="col-sm-3">
+                                <ul class="list-cate">
+                                                                            <li><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_366">All-in-One Computers (0)</a></li>
+                                                                            <li><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_370">Apple iMac, Mini &amp; Mac Pro (0)</a></li>
+                                                                    </ul>
+                            </div>
+                                                    <div class="col-sm-3">
+                                <ul class="list-cate">
+                                                                            <li><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_369">Desktop Packages (0)</a></li>
+                                                                            <li><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_371">Gaming Desktops (0)</a></li>
+                                                                    </ul>
+                            </div>
+                                                    <div class="col-sm-3">
+                                <ul class="list-cate">
+                                                                            <li><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_368">Refurbished Desktops (0)</a></li>
+                                                                            <li><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/category&amp;path=20_49_367">Towers Only (0)</a></li>
+                                                                    </ul>
+                            </div>
+                                            </div>
+                    <br>
+                                        <div class="custom-category">
+                					<div><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/compare" id="compare-total">Product Compare (0)</a></div>
+                    <div class="toolbar toolbar-products">
+                        <div class="modes">
+															<button type="button" onclick="category_view.changeView('grid', 2, 'btn-grid-2')" class="btn btn-default btn-custom-view btn-grid btn-grid-2" data-toggle="tooltip" title="" data-original-title="2">2</button>
+								<button type="button" onclick="category_view.changeView('grid', 3, 'btn-grid-3')" class="btn btn-default btn-custom-view btn-grid btn-grid-3" data-toggle="tooltip" title="" data-original-title="3">3</button>
+								<button type="button" onclick="category_view.changeView('grid', 4, 'btn-grid-4')" class="btn btn-default btn-custom-view btn-grid btn-grid-4" data-toggle="tooltip" title="" data-original-title="4">4</button>
+								<button type="button" onclick="category_view.changeView('grid', 5, 'btn-grid-5')" class="btn btn-default btn-custom-view btn-grid btn-grid-5 active" data-toggle="tooltip" title="" data-original-title="5">5</button>
+								<button type="button" onclick="category_view.changeView('list', 0, 'btn-list')" class="btn btn-default btn-custom-view btn-list" data-toggle="tooltip" title="" data-original-title="List">List</button>
+								<input type="hidden" id="category-view-type" value="grid">
+								<input type="hidden" id="category-grid-cols" value="4">
+							                         </div>
+                        <div class="toolbar-amount">
+							<span>Showing 1 to 8 of 8 (1 Pages)</span>
+						</div>
+                        <div class="sorter">
+															<label for="input-sort">Sort By:</label>
+								<select id="input-sort" class="form-control" onchange="ocfilter.filter(this.value);">
+																														<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;sort=p.sort_order&amp;order=ASC" selected="selected">Default</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;sort=pd.name&amp;order=ASC">Name (A - Z)</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;sort=pd.name&amp;order=DESC">Name (Z - A)</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;sort=p.price&amp;order=ASC">Price (Low &gt; High)</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;sort=p.price&amp;order=DESC">Price (High &gt; Low)</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;sort=rating&amp;order=DESC">Rating (Highest)</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;sort=rating&amp;order=ASC">Rating (Lowest)</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;sort=p.model&amp;order=ASC">Model (A - Z)</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;sort=p.model&amp;order=DESC">Model (Z - A)</option>
+																											</select>
+							                        </div>
+                        <div class="limiter">
+															<label for="input-limit">Show:</label>
+								<select id="input-limit" class="form-control" onchange="ocfilter.filter(this.value);">
+																														<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;limit=16" selected="selected">16</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;limit=25">25</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;limit=50">50</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;limit=75">75</option>
+																																								<option value="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/ocfilter/category&amp;path=49&amp;limit=100">100</option>
+																											</select>
+							                        </div>
+                    </div>
+                    <div class="row">
+                        						                            <div class="product-layout product-grid grid-style col-lg-divide-5 col-md-divide-5 col-sm-6 col-xs-6 product-item">
+                                <div class="product-thumb">
+									<div class="item item1">
+										<div class="item-inner">
+											<div class="image images-container">
+												<div class="inner">
+												<div class="box-label">
+
+												</div>
+																									<div class="image rotate-image-container">
+														<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=57">
+															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/28-600x600.jpg" alt="Amazon Cloud Cam  Security Camera" title="Amazon Cloud Cam  Security Camera" class="img-responsive img-default-image">
+																													</a>
+
+													</div>
+
+
+																								<div class="quickview">
+
+												<button type="button" class="button btn-quickview" title="Quick View" onclick="ocquickview.ajaxView('http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=57')"><span>Quick View</span></button></div>
+
+												</div>
+											<div class="button-group action-links">
+
+													<button type="button" class="button btn-wishlist" title="Add to Wish List" onclick="wishlist.add('57');"><span>Add to Wish List</span></button>
+													<button type="button" class="button btn-compare" title="Compare this Product" onclick="compare.add('57');"><span>Compare this Product</span></button>
+												</div></div>
+											<div class="caption">
+												<div class="inner">
+																								<p class="manufacture-product ">
+													<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>
+												</p>
+
+
+
+
+
+												<h4 class="product-name"><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=57">Amazon Cloud Cam  Security Camera</a></h4>
+												<div class="ratings">
+														<div class="rating-box">
+																																																																																																																																																																															<div class="rating4">rating</div>
+																																																																								</div>
+													</div>
+
+
+																								<p class="product-des">More room to move.
+
+			With 80GB or 160GB of storage and up to 40 hours of battery life, the new iPod classic lets you enjoy up to 40,000 songs or up to 200 hours of video or any combination where..</p>
+
+												<div class="price-box">
+																											<p class="regular-price"><span class="price">$98.00</span></p>
+																																								<p class="price-tax"><span class="price">Ex Tax: $80.00</span></p>
+																										</div><button type="button" class="button btn-cart" title="Add to Cart" onclick="cart.add('57', '1');"><span>Add to Cart</span></button></div>
+											</div>
+											<div class="box-action">
+											</div>
+										</div>
+									</div>
+                                </div>
+                            </div>
+
+                                                    <div class="product-layout product-grid grid-style col-lg-divide-5 col-md-divide-5 col-sm-6 col-xs-6 product-item">
+                                <div class="product-thumb">
+									<div class="item item2">
+										<div class="item-inner">
+											<div class="image images-container">
+												<div class="inner">
+												<div class="box-label">
+
+												</div>
+																									<div class="image rotate-image-container">
+														<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=59">
+															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/9-600x600.jpg" alt="Apple iPhone SE 16GB  Factory" title="Apple iPhone SE 16GB  Factory" class="img-responsive img-default-image">
+																															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/4-600x600.jpg" alt="Apple iPhone SE 16GB  Factory" title="Apple iPhone SE 16GB  Factory" class="img-responsive img-rotate-image">
+																													</a>
+
+													</div>
+
+
+																								<div class="quickview">
+
+												<button type="button" class="button btn-quickview" title="Quick View" onclick="ocquickview.ajaxView('http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=59')"><span>Quick View</span></button></div>
+
+												</div>
+											<div class="button-group action-links">
+
+													<button type="button" class="button btn-wishlist" title="Add to Wish List" onclick="wishlist.add('59');"><span>Add to Wish List</span></button>
+													<button type="button" class="button btn-compare" title="Compare this Product" onclick="compare.add('59');"><span>Compare this Product</span></button>
+												</div></div>
+											<div class="caption">
+												<div class="inner">
+																								<p class="manufacture-product ">
+													<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>
+												</p>
+
+
+
+
+
+												<h4 class="product-name"><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=59">Apple iPhone SE 16GB  Factory</a></h4>
+												<div class="ratings">
+														<div class="rating-box">
+																																																																																																																																																		<div class="rating3">rating</div>
+																																																																																																					</div>
+													</div>
+
+
+																								<p class="product-des">Born to be worn.
+
+		Clip on the worlds most wearable music player and take up to 240 songs with you anywhere. Choose from five colors including four new hues to make your musical fashion statement...</p>
+
+												<div class="price-box">
+																											<p class="regular-price"><span class="price">$104.00</span></p>
+																																								<p class="price-tax"><span class="price">Ex Tax: $85.00</span></p>
+																										</div><button type="button" class="button btn-cart" title="Add to Cart" onclick="cart.add('59', '1');"><span>Add to Cart</span></button></div>
+											</div>
+											<div class="box-action">
+											</div>
+										</div>
+									</div>
+                                </div>
+                            </div>
+
+                                                    <div class="product-layout product-grid grid-style col-lg-divide-5 col-md-divide-5 col-sm-6 col-xs-6 product-item">
+                                <div class="product-thumb">
+									<div class="item item3">
+										<div class="item-inner">
+											<div class="image images-container">
+												<div class="inner">
+												<div class="box-label">
+
+												</div>
+																									<div class="image rotate-image-container">
+														<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=55">
+															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/6-600x600.jpg" alt="Beats Solo3 Wireless  On-Ear Headphones" title="Beats Solo3 Wireless  On-Ear Headphones" class="img-responsive img-default-image">
+																													</a>
+
+													</div>
+
+
+																								<div class="quickview">
+
+												<button type="button" class="button btn-quickview" title="Quick View" onclick="ocquickview.ajaxView('http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=55')"><span>Quick View</span></button></div>
+
+												</div>
+											<div class="button-group action-links">
+
+													<button type="button" class="button btn-wishlist" title="Add to Wish List" onclick="wishlist.add('55');"><span>Add to Wish List</span></button>
+													<button type="button" class="button btn-compare" title="Compare this Product" onclick="compare.add('55');"><span>Compare this Product</span></button>
+												</div></div>
+											<div class="caption">
+												<div class="inner">
+																								<p class="manufacture-product ">
+													<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/manufacturer/info&amp;manufacturer_id=10">Sony</a>
+												</p>
+
+
+
+
+
+												<h4 class="product-name"><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=55">Beats Solo3 Wireless  On-Ear Headphones</a></h4>
+												<div class="ratings">
+														<div class="rating-box">
+																																																																																																																																																																															<div class="rating4">rating</div>
+																																																																								</div>
+													</div>
+
+
+																								<p class="product-des">Unprecedented power. The next generation of processing technology has arrived. Built into the newest VAIO notebooks lies Intel's latest, most powerful innovation yet: Intel® Centrino® 2 pr..</p>
+
+												<div class="price-box">
+																											<p class="regular-price"><span class="price">$1,202.00</span></p>
+																																								<p class="price-tax"><span class="price">Ex Tax: $1,000.00</span></p>
+																										</div><button type="button" class="button btn-cart" title="Add to Cart" onclick="cart.add('55', '1');"><span>Add to Cart</span></button></div>
+											</div>
+											<div class="box-action">
+											</div>
+										</div>
+									</div>
+                                </div>
+                            </div>
+
+                                                    <div class="product-layout product-grid grid-style col-lg-divide-5 col-md-divide-5 col-sm-6 col-xs-6 product-item">
+                                <div class="product-thumb">
+									<div class="item item4">
+										<div class="item-inner">
+											<div class="image images-container">
+												<div class="inner">
+												<div class="box-label">
+																											<div class="label-product label_new"><span>New</span></div>
+
+												</div>
+																									<div class="image rotate-image-container">
+														<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=60">
+															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/29-600x600.jpg" alt="Kodak PIXPRO Astro  Zoom AZ421 16 MP" title="Kodak PIXPRO Astro  Zoom AZ421 16 MP" class="img-responsive img-default-image">
+																													</a>
+
+													</div>
+
+
+																								<div class="quickview">
+
+												<button type="button" class="button btn-quickview" title="Quick View" onclick="ocquickview.ajaxView('http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=60')"><span>Quick View</span></button></div>
+
+												</div>
+											<div class="button-group action-links">
+
+													<button type="button" class="button btn-wishlist" title="Add to Wish List" onclick="wishlist.add('60');"><span>Add to Wish List</span></button>
+													<button type="button" class="button btn-compare" title="Compare this Product" onclick="compare.add('60');"><span>Compare this Product</span></button>
+												</div></div>
+											<div class="caption">
+												<div class="inner">
+																								<p class="manufacture-product ">
+													<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>
+												</p>
+
+
+
+
+
+												<h4 class="product-name"><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=60">Kodak PIXPRO Astro  Zoom AZ421 16 MP</a></h4>
+												<div class="ratings">
+														<div class="rating-box">
+																																																																																																																																																																															<div class="rating4">rating</div>
+																																																																								</div>
+													</div>
+
+
+																								<p class="product-des">Revolutionary multi-touch interface.
+	iPod touch features the same multi-touch screen technology as iPhone. Pinch to zoom in on a photo. Scroll through your songs and videos with a flick. Flip throug..</p>
+
+												<div class="price-box">
+																											<p class="regular-price"><span class="price">$116.00</span></p>
+																																								<p class="price-tax"><span class="price">Ex Tax: $95.00</span></p>
+																										</div><button type="button" class="button btn-cart" title="Add to Cart" onclick="cart.add('60', '1');"><span>Add to Cart</span></button></div>
+											</div>
+											<div class="box-action">
+											</div>
+										</div>
+									</div>
+                                </div>
+                            </div>
+
+                                                    <div class="product-layout product-grid grid-style col-lg-divide-5 col-md-divide-5 col-sm-6 col-xs-6 product-item">
+                                <div class="product-thumb">
+									<div class="item item5">
+										<div class="item-inner">
+											<div class="image images-container">
+												<div class="inner">
+												<div class="box-label">
+																											<div class="label-product label_new"><span>New</span></div>
+
+												</div>
+																									<div class="image rotate-image-container">
+														<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=143">
+															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/18-600x600.jpg" alt="Nokia Steel HR Hybrid  Smartwatch" title="Nokia Steel HR Hybrid  Smartwatch" class="img-responsive img-default-image">
+																													</a>
+
+													</div>
+
+
+																								<div class="quickview">
+
+												<button type="button" class="button btn-quickview" title="Quick View" onclick="ocquickview.ajaxView('http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=143')"><span>Quick View</span></button></div>
+
+												</div>
+											<div class="button-group action-links">
+
+													<button type="button" class="button btn-wishlist" title="Add to Wish List" onclick="wishlist.add('143');"><span>Add to Wish List</span></button>
+													<button type="button" class="button btn-compare" title="Compare this Product" onclick="compare.add('143');"><span>Compare this Product</span></button>
+												</div></div>
+											<div class="caption">
+												<div class="inner">
+																								<p class="manufacture-product ">
+													<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>
+												</p>
+
+
+
+
+
+												<h4 class="product-name"><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=143">Nokia Steel HR Hybrid  Smartwatch</a></h4>
+												<div class="ratings">
+														<div class="rating-box">
+																																																											<div class="rating0">rating</div>
+																																																																																																																																																																																												</div>
+													</div>
+
+
+																								<p class="product-des">Revolutionary multi-touch interface.
+	iPod touch features the same multi-touch screen technology as iPhone. Pinch to zoom in on a photo. Scroll through your songs and videos with a flick. Flip throug..</p>
+
+												<div class="price-box">
+																											<p class="regular-price"><span class="price">$116.00</span></p>
+																																								<p class="price-tax"><span class="price">Ex Tax: $95.00</span></p>
+																										</div><button type="button" class="button btn-cart" title="Add to Cart" onclick="cart.add('143', '1');"><span>Add to Cart</span></button></div>
+											</div>
+											<div class="box-action">
+											</div>
+										</div>
+									</div>
+                                </div>
+                            </div>
+
+                                                    <div class="product-layout product-grid grid-style col-lg-divide-5 col-md-divide-5 col-sm-6 col-xs-6 product-item">
+                                <div class="product-thumb">
+									<div class="item item6">
+										<div class="item-inner">
+											<div class="image images-container">
+												<div class="inner">
+												<div class="box-label">
+																											<div class="label-product label_new"><span>New</span></div>
+
+												</div>
+																									<div class="image rotate-image-container">
+														<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=141">
+															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/16-600x600.jpg" alt="Sony XB10 Portable  Wireless Speaker" title="Sony XB10 Portable  Wireless Speaker" class="img-responsive img-default-image">
+																															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/6-600x600.jpg" alt="Sony XB10 Portable  Wireless Speaker" title="Sony XB10 Portable  Wireless Speaker" class="img-responsive img-rotate-image">
+																													</a>
+
+													</div>
+
+
+																								<div class="quickview">
+
+												<button type="button" class="button btn-quickview" title="Quick View" onclick="ocquickview.ajaxView('http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=141')"><span>Quick View</span></button></div>
+
+												</div>
+											<div class="button-group action-links">
+
+													<button type="button" class="button btn-wishlist" title="Add to Wish List" onclick="wishlist.add('141');"><span>Add to Wish List</span></button>
+													<button type="button" class="button btn-compare" title="Compare this Product" onclick="compare.add('141');"><span>Compare this Product</span></button>
+												</div></div>
+											<div class="caption">
+												<div class="inner">
+																								<p class="manufacture-product ">
+													<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>
+												</p>
+
+
+
+
+
+												<h4 class="product-name"><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=141">Sony XB10 Portable  Wireless Speaker</a></h4>
+												<div class="ratings">
+														<div class="rating-box">
+																																																											<div class="rating0">rating</div>
+																																																																																																																																																																																												</div>
+													</div>
+
+
+																								<p class="product-des">Born to be worn.
+
+		Clip on the worlds most wearable music player and take up to 240 songs with you anywhere. Choose from five colors including four new hues to make your musical fashion statement...</p>
+
+												<div class="price-box">
+																											<p class="regular-price"><span class="price">$104.00</span></p>
+																																								<p class="price-tax"><span class="price">Ex Tax: $85.00</span></p>
+																										</div><button type="button" class="button btn-cart" title="Add to Cart" onclick="cart.add('141', '1');"><span>Add to Cart</span></button></div>
+											</div>
+											<div class="box-action">
+											</div>
+										</div>
+									</div>
+                                </div>
+                            </div>
+
+                                                    <div class="product-layout product-grid grid-style col-lg-divide-5 col-md-divide-5 col-sm-6 col-xs-6 product-item">
+                                <div class="product-thumb">
+									<div class="item item7">
+										<div class="item-inner">
+											<div class="image images-container">
+												<div class="inner">
+												<div class="box-label">
+
+												</div>
+																									<div class="image rotate-image-container">
+														<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=50">
+															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/1-600x600.jpg" alt="Sylvania Portable  Bluetooth Speaker" title="Sylvania Portable  Bluetooth Speaker" class="img-responsive img-default-image">
+																													</a>
+
+													</div>
+
+
+																								<div class="quickview">
+
+												<button type="button" class="button btn-quickview" title="Quick View" onclick="ocquickview.ajaxView('http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=50')"><span>Quick View</span></button></div>
+
+												</div>
+											<div class="button-group action-links">
+
+													<button type="button" class="button btn-wishlist" title="Add to Wish List" onclick="wishlist.add('50');"><span>Add to Wish List</span></button>
+													<button type="button" class="button btn-compare" title="Compare this Product" onclick="compare.add('50');"><span>Compare this Product</span></button>
+												</div></div>
+											<div class="caption">
+												<div class="inner">
+																								<p class="manufacture-product ">
+													<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>
+												</p>
+
+
+
+
+
+												<h4 class="product-name"><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=50">Sylvania Portable  Bluetooth Speaker</a></h4>
+												<div class="ratings">
+														<div class="rating-box">
+																																																																																																																																																																															<div class="rating4">rating</div>
+																																																																								</div>
+													</div>
+
+
+																								<p class="product-des">The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the..</p>
+
+												<div class="price-box">
+																											<p class="regular-price"><span class="price">$122.00</span></p>
+																																								<p class="price-tax"><span class="price">Ex Tax: $100.00</span></p>
+																										</div><button type="button" class="button btn-cart" title="Add to Cart" onclick="cart.add('50', '2');"><span>Add to Cart</span></button></div>
+											</div>
+											<div class="box-action">
+											</div>
+										</div>
+									</div>
+                                </div>
+                            </div>
+
+                                                    <div class="product-layout product-grid grid-style col-lg-divide-5 col-md-divide-5 col-sm-6 col-xs-6 product-item">
+                                <div class="product-thumb">
+									<div class="item item8">
+										<div class="item-inner">
+											<div class="image images-container">
+												<div class="inner">
+												<div class="box-label">
+
+												</div>
+																									<div class="image rotate-image-container">
+														<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=62">
+															<img src="http://demo.towerthemes.com/tt_sinrato/image/cache/catalog/products/12-600x600.jpg" alt="Beats Solo Wireless On-Ear Headphone" title="Beats Solo Wireless On-Ear Headphone" class="img-responsive img-default-image">
+																													</a>
+
+													</div>
+
+
+																								<div class="quickview">
+
+												<button type="button" class="button btn-quickview" title="Quick View" onclick="ocquickview.ajaxView('http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=62')"><span>Quick View</span></button></div>
+
+												</div>
+											<div class="button-group action-links">
+
+													<button type="button" class="button btn-wishlist" title="Add to Wish List" onclick="wishlist.add('62');"><span>Add to Wish List</span></button>
+													<button type="button" class="button btn-compare" title="Compare this Product" onclick="compare.add('62');"><span>Compare this Product</span></button>
+												</div></div>
+											<div class="caption">
+												<div class="inner">
+																								<p class="manufacture-product ">
+													<a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/manufacturer/info&amp;manufacturer_id=7">Hewlett-Packard</a>
+												</p>
+
+
+
+
+
+												<h4 class="product-name"><a href="http://demo.towerthemes.com/tt_sinrato/index.php?route=product/product&amp;path=20_49&amp;product_id=62">Beats Solo Wireless On-Ear Headphone</a></h4>
+												<div class="ratings">
+														<div class="rating-box">
+																																																																																																																																																																																																												<div class="rating5">rating</div>
+																																											</div>
+													</div>
+
+
+																								<p class="product-des">Samsung Galaxy Tab 10.1, is the world’s thinnest tablet, measuring 8.6 mm thickness, running with Android 3.0 Honeycomb OS on a 1GHz dual-core Tegra 2 processor, similar to its younger brother S..</p>
+
+												<div class="price-box">
+																											<p class="regular-price"><span class="price">$241.99</span></p>
+																																								<p class="price-tax"><span class="price">Ex Tax: $199.99</span></p>
+																										</div><button type="button" class="button btn-cart" title="Add to Cart" onclick="cart.add('62', '1');"><span>Add to Cart</span></button></div>
+											</div>
+											<div class="box-action">
+											</div>
+										</div>
+									</div>
+                                </div>
+                            </div>
+
+
+					</div>
+                    <div class="toolbar toolbar-products toolbar-bottom">
+                                                    <div class="pages ajax_pagination"></div>
+                                                <div class="toolbar-amount"><span>Showing 1 to 8 of 8 (1 Pages)</span></div>
+                    </div>
+                                            </div>
+
+        </div>
+
+    </div>
+</div>
+</div>

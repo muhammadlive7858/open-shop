@@ -18,7 +18,7 @@
   <link href="{{ asset('taxer/assets/css/icons.css')}}" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-  
+
 
   <!-- loader-->
 	<link href="{{  asset('taxer/assets/css/pace.min.css')}}" rel="stylesheet" />
@@ -38,7 +38,7 @@
   <!--start wrapper-->
   <div class="wrapper">
     <!--start top header-->
-      <header class="top-header">        
+      <header class="top-header">
         <nav class="navbar navbar-expand gap-3">
           <div class="mobile-toggle-icon fs-3">
               <i class="bi bi-list"></i>
@@ -490,9 +490,9 @@
                 <div class="menu-title">Amallar</div>
               </a>
               <ul>
-                <li> <a href="app-emailbox.html"><i class="bi bi-circle"></i>Tadbirkorlar</a>
+                <li> <a href="{{ route('entrepreneurs') }}"><i class="bi bi-circle"></i>Tadbirkorlar</a>
                 </li>
-                <li> <a href="app-chat-box.html"><i class="bi bi-circle"></i>Soliqlar</a>
+                <li> <a href="{{ route('taxer.taxs') }}"><i class="bi bi-circle"></i>Soliqlar</a>
                 </li>
                 <li> <a href="app-file-manager.html"><i class="bi bi-circle"></i>Soliq sozlamalari</a>
                 </li>
@@ -770,8 +770,10 @@
 
        <!--start content-->
           <main class="page-content">
-              
-            <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 row-cols-xxl-4">
+
+            @yield('content')
+
+            {{-- <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 row-cols-xxl-4">
               <div class="col">
                 <div class="card overflow-hidden radius-10">
                     <div class="card-body">
@@ -1045,7 +1047,7 @@
                      </div>
                    </div>
                   <div id="chart11" class=""></div>
-                  <div class="d-flex align-items-center gap-5 justify-content-center mt-3 p-2 radius-10 border"> 
+                  <div class="d-flex align-items-center gap-5 justify-content-center mt-3 p-2 radius-10 border">
                     <div class="text-center">
                       <h3 class="mb-2 text-primary">8,546</h3>
                       <p class="mb-0">New  Visitors</p>
@@ -1270,11 +1272,11 @@
                       </div>
                     </div>
                    </div>
-                     
+
                 </div>
               </div>
             </div>
-         </div><!--end row-->
+         </div><!--end row--> --}}
 
 
 

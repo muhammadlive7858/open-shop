@@ -18,7 +18,7 @@
             <div class="dataTable-search"><input class="dataTable-input" placeholder="Search..." type="text"></div>
         </div>
         <div class="dataTable-container">
-            <table class="table table-borderless datatable dataTable-table">
+            <table class="table table-responsive table-borderless datatable dataTable-table">
                 <thead>
                     <tr>
                         <th scope="col" data-sortable="" style="width: 10.9184%;"><a href="#">#</a></th>

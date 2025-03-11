@@ -51,7 +51,7 @@
 <body>
 
     <!-- ======= Header ======= -->
-    <header id="header" class="header fixed-top d-flex align-items-center">
+    <header id="header" class="header fixed-top d-flex align-items-center" style="background-color:#f4f4f4">
 
         <div class="d-flex align-items-center justify-content-between">
             <a href="index.html" class="logo d-flex align-items-center">
@@ -281,7 +281,7 @@
     </header><!-- End Header -->
 
     <!-- ======= Sidebar ======= -->
-    <aside id="sidebar" class="sidebar">
+    <aside id="sidebar" class="sidebar" style="background-color:#f1f1f1">
 
         <ul class="sidebar-nav" id="sidebar-nav">
 
@@ -297,8 +297,8 @@
                     href="#">
                     <i class="bi bi-layout-text-window-reverse"></i><span>Savdo</span><i class="bi bi-chevron-down ms-auto"></i>
                 </a>
-                <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
-                    <li>
+                <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav" style="background-color:#fff">
+                    <li >
                         <a href="{{ route('savdo') }}">
                             <i class="bi bi-circle"></i><span>Sotuv paneli</span>
                         </a>
@@ -341,7 +341,7 @@
                     <i class="bi bi-menu-button-wide"></i></i><span>Tavarlar</span><i
                         class="bi bi-chevron-down ms-auto"></i>
                 </a>
-                <ul id="tables-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                <ul id="tables-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav" style="background-color:#fff">
                     <li>
                         <a href="{{ route('tavar.index') }}">
                             <i class="bi bi-circle"></i><span>Tavarlar</span>
@@ -359,7 +359,7 @@
                 <a class="nav-link collapsed" data-bs-target="#icons-nav" data-bs-toggle="collapse" href="#">
                     <i class="bi bi-book"></i><span>Tavar bo'limlari</span><i class="bi bi-chevron-down ms-auto"></i>
                 </a>
-                <ul id="icons-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                <ul id="icons-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav" style="background-color:#fff">
                     <li>
                         <a href="{{ route('bolim.index') }}">
                             <i class="bi bi-circle"></i><span>Bo'limlar</span>
@@ -377,7 +377,7 @@
                 <a class="nav-link collapsed" data-bs-target="#icons-nav1" data-bs-toggle="collapse" href="#">
                     <i class="bi bi-gem"></i><span>Taminotchilar</span><i class="bi bi-chevron-down ms-auto"></i>
                 </a>
-                <ul id="icons-nav1" class="nav-content collapse" data-bs-parent="#sidebar-nav">
+                <ul id="icons-nav1" class="nav-content collapse" data-bs-parent="#sidebar-nav" style="background-color:#fff">
                     <li>
                         <a href="{{ route('taminot.index') }}">
                             <i class="bi bi-circle"></i><span>Taminotchilar</span>
@@ -396,7 +396,7 @@
                     <i class="bi bi-bar-chart"></i><span>Aksiyalar/Chegirmalar</span><i
                         class="bi bi-chevron-down ms-auto"></i>
                 </a>
-                <ul id="charts-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                <ul id="charts-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav" style="background-color:#fff">
                     <li>
                         <a href="{{ route('aksiya.index') }}">
                             <i class="bi bi-circle"></i><span>Aksiyalar</span>

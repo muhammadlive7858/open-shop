@@ -113,7 +113,7 @@
                           <div class="row mb-3">
                             <label for="profileImage" class="col-md-4 col-lg-3 col-form-label">Old Profile Image</label>
                             <div class="col-md-8 col-lg-9">
-                              <img src="{{ asset($user->image) }}" alt="Profile">
+                              <img src="{{ asset('images/uploaded-image/'.$user->image) }}" alt="Profile">
                               <div class="pt-2">
                                 <input type="file" name="image" class="form-control" title="Upload new profile image" placeholder="<i class='bi bi-upload'></i>">
                                 {{-- <a href="#" class="btn btn-danger btn-sm" title="Remove my profile image"><i class="bi bi-trash"></i></a> --}}

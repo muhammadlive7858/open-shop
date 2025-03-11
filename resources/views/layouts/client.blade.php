@@ -674,12 +674,12 @@
 
                                             <div class="flyout-menu-container sub-menu-container left">
                                                 <ul class="ul-second-items">
-                                                    @forelse($Bolimlar as $bolim)
-                                                        @if ($bolim->parent_id == $parents->id)
+                                                    @forelse($Categories as $category)
+                                                        @if ($category->parent_id == $parents->id)
                                                             <li class="li-second-items">
                                                                 <a href="#" class="a-second-link a-item">
                                                                     <span
-                                                                        class="a-second-title">{{ $bolim->name }}</span>
+                                                                        class="a-second-title">{{ $category->name }}</span>
                                                                     {{-- <i class="fa fa-angle-right" aria-hidden="true"></i> --}}
                                                                 </a>
                                                                 <div class="flyout-third-items left">
@@ -828,15 +828,15 @@
                                                         <h4><a class="a-mega-second-link"
                                                                 href="">{{ $parents->name }}</a></h4>
                                                         <div class="sub_item3-content">
-                                                            @forelse($Bolimlar as $bolim)
-                                                                @if ($bolim->parent_id == $parents->id)
+                                                            @forelse($Categories as $Category)
+                                                                @if ($Category->parent_id == $parents->id)
                                                                     <h5><a class="a-mega-third-link"
-                                                                            href="">{{ $bolim->name }}</a>
+                                                                            href="">{{ $Category->name }}</a>
                                                                     </h5>
                                                                 @endif
                                                             @empty
                                                             @endforelse
-                                                            @forelse($Bolimlar as $bolim)
+                                                            @forelse($Categories as $Category)
                                                             @empty
                                                             @endforelse
                                                         </div>

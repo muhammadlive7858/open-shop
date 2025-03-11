@@ -7,7 +7,7 @@
                 <h5 class="card-title">Taminotchilar <span>| sahifasi</span></h5>
                 <table class="table table-borderless">
                     <thead>
-                        <tr>
+                        <tr class="" style="background-color:#f4f4f4">
                             <th scope="col">#</th>
                             <th scope="col">Name</th>
                             <th scope="col">Company</th>

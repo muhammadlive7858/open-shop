@@ -3,7 +3,7 @@
 use App\MOdels\Bolim;
 use App\MOdels\Tavar;
 
-
+// seller
 use App\Http\Controllers\AksiyaController;
 use App\Http\Controllers\BolimController;
 use App\Http\Controllers\ChegirmaController;
@@ -19,6 +19,10 @@ use App\Http\Controllers\XizmatController;
 use App\Http\Controllers\profile;
 
 use App\Http\Controllers\HomeController;
+// taxer
+use App\Http\Controllers\taxer\EntrepreneursController;
+use App\Http\Controllers\taxer\TaxsController;
+
 
 
 use Illuminate\Support\Facades\Route;
@@ -36,72 +40,75 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     $parentBolimlar = Bolim::where('parent_id','=',null)->get();
-    $Bolimlar = Bolim::get();
-    $tavarlar = Tavar::all();
+    $Categories = Bolim::get();
+    $products = Tavar::all();
     $now = date('Y-m-d');
     // dd($tavarlar);
 
-    return view('frontend.index',compact('parentBolimlar','Bolimlar','tavarlar','now'));
+    return view('frontend.index',compact('parentBolimlar','Categories','products','now'));
 });
 
 Auth::routes();
 
 Route::get('/home', [HomeController::class, 'index'])->name('home');
 
-Route::resource('tavar', TavarController::class)->names('tavar');
+// saller
+        Route::resource('tavar', TavarController::class)->names('tavar');
 
-Route::resource('bolim', BolimController::class)->names('bolim');
+        Route::resource('bolim', BolimController::class)->names('bolim');
 
-Route::resource('taminot', TaminotchiController::class)->names('taminot');
+        Route::resource('taminot', TaminotchiController::class)->names('taminot');
 
-Route::resource('aksiya', AksiyaController::class)->names('aksiya');
+        Route::resource('aksiya', AksiyaController::class)->names('aksiya');
 
-Route::resource('chegirma', ChegirmaController::class)->names('chegirma');
+        Route::resource('chegirma', ChegirmaController::class)->names('chegirma');
 
-Route::resource('xizmat', XizmatController::class)->names('xizmat');
+        Route::resource('xizmat', XizmatController::class)->names('xizmat');
 
-Route::resource('tolav', TolavlarController::class)->names('tolav');
+        Route::resource('tolav', TolavlarController::class)->names('tolav');
 
-
-
-// profile
-Route::get('profile', [profile::class, 'index'])->name('profile');
-Route::post('profile/update/{id}', [profile::class, 'update'])->name('profile.update');
-Route::post('profile/updatepassword/{id}', [profile::class, 'changePassword'])->name('profile.updatepassword');
-
-
-// HelperRoute
-Route::get('kirim/{id}',[HelperController::class,'kirim'])->name('kirim');
-Route::post('kirim/{id}',[HelperController::class,'kirim_update'])->name('kirim');
+        // profile
+        Route::get('profile', [profile::class, 'index'])->name('profile');
+        Route::post('profile/update/{id}', [profile::class, 'update'])->name('profile.update');
+        Route::post('profile/updatepassword/{id}', [profile::class, 'changePassword'])->name('profile.updatepassword');
 
 
-// savdo paneli
-Route::get('savdo',[SavdoController::class,'index'])->name('savdo');
-Route::post('search',[SavdoController::class,'search'])->name('searchShop');
-
-Route::post('karzinkaplus',[SavdoController::class,'karzinkaplus'])->name('karzinkaplus');
-
-Route::get('karzinka', [SavdoController::class, 'karzinka'])->name('karzinka');
-
-Route::post('sell', [SavdoController::class, 'sell'])->name('sell');
-
-Route::get('cart/remove/{id}',[SavdoController::class, 'remove'])->name('cart.remove');
-
-Route::get('cart/destroy',[SavdoController::class, 'destroy'])->name('cart.destroy');
+        // HelperRoute
+        Route::get('kirim/{id}',[HelperController::class,'kirim'])->name('kirim');
+        Route::post('kirim/{id}',[HelperController::class,'kirim_update'])->name('kirim');
 
 
-// sotuv tarixi
-Route::get('savdo/history',[SotuvTarixi::class, 'index'])->name('savdo.history');
+        // savdo paneli
+        Route::get('savdo',[SavdoController::class,'index'])->name('savdo');
+        Route::post('search',[SavdoController::class,'search'])->name('searchShop');
 
-Route::get('sotuv/show/{id}',[SotuvTarixi::class, 'show'])->name('sotuv.show');
+        Route::post('karzinkaplus',[SavdoController::class,'karzinkaplus'])->name('karzinkaplus');
 
-Route::get('sotuv_client/show/{id}',[SotuvTarixi::class, 'sotuv_client'])->name('sotuv_client.show');
+        Route::get('karzinka', [SavdoController::class, 'karzinka'])->name('karzinka');
+
+        Route::post('sell', [SavdoController::class, 'sell'])->name('sell');
+
+        Route::get('cart/remove/{id}',[SavdoController::class, 'remove'])->name('cart.remove');
+
+        Route::get('cart/destroy',[SavdoController::class, 'destroy'])->name('cart.destroy');
 
 
-// mijozlar
-Route::resource('mijoz', ShopClientController::class)->names('mijoz');
+        // sotuv tarixi
+        Route::get('savdo/history',[SotuvTarixi::class, 'index'])->name('savdo.history');
+
+        Route::get('sotuv/show/{id}',[SotuvTarixi::class, 'show'])->name('sotuv.show');
+
+        Route::get('sotuv_client/show/{id}',[SotuvTarixi::class, 'sotuv_client'])->name('sotuv_client.show');
 
 
+        // mijozlar
+        Route::resource('mijoz', ShopClientController::class)->names('mijoz');
+// taxer
+        Route::get('entrepreneurs',[EntrepreneursController::class, 'index'])->name('entrepreneurs');
+        Route::get('entrepreneurs/show/{id}',[EntrepreneursController::class,'show'])->name('entrepreneurs.show');
+        Route::get('entrepreneurs/show/report/{id}',[EntrepreneursController::class,'showall'])->name('entrepreneurs.show.report');
+        // tax
+        Route::get('taxer/tax',[TaxsController::class,'index'])->name('taxer.taxs');
 
 
 

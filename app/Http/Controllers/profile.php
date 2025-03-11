@@ -19,6 +19,11 @@ class profile extends Controller
         $uploaded = $request->file('image');
         if ($uploaded) {
             $user = User::find(Auth::user()->id);
+            $validate = "User mavjud emas!";
+            if(!$user){
+                return redirect()->back()->withErrors($validator)->withInput();
+            }
+
             $tmp_name = $request->file('image')->getClientOriginalExtension();
 
             $new_name = rand(100, 999) . time() . 'image.' . $tmp_name;
@@ -45,11 +50,11 @@ class profile extends Controller
                     return redirect()->route('profile');
                 }
             }else{
-                dd('User not found');
+                // dd('User not found');
                 return redirect()->back()->with('Foydalanuvchi topilmadi');
             }
         }else{
-            dd('file not found');
+            // dd('file not found');
             return redirect()->back()->with('File yuklanmadi');
         }
     }

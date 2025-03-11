@@ -47,11 +47,11 @@
                   </div>
                   <div class="ps-5">
                     <span class="fw-bold">Asl baxosi / Sotuv baxosi</span>
-                    <h6>{{ $tavar->price }}/{{ $tavar->shop_price }}</h6>
-                    <span class="text-success small pt-1 fw-bold">{{ $tavar->chegirma }}%</span> <span class="text-muted small pt-2 ps-1">Chegirma/{{ $tavar->chegirma_date }}</span>
+                    <span class="fw-bold d-block">{{ $tavar->price }}/{{ $tavar->shop_price }}</span>
+                    <span class="text-success small pt-1 fw-bold">{{ $tavar->chegirma }}%</span> <span class="text-muted small pt-2 ps-1">/{{ $tavar->chegirma_date }}</span>
                   </div>
                 </div>
-                <span >{{ $tavar->desc }}</span>
+                {{-- <span >{{ $tavar->desc }}</span> --}}
               </div>
 
             </div>
